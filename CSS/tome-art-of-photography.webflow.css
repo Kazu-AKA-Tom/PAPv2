@@ -27,10 +27,12 @@
   background-color: transparent;
 }
 
+/*navbar font configurations*/
+
 .navbar-link {
-  font-family: Quicksand, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   color: rgb(219, 218, 218);
-  font-size: 24px;
+  font-size: 30px;
   line-height: 1.4;
   font-weight: 400;
 }
