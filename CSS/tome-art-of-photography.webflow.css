@@ -70,15 +70,19 @@
   background-color: rgb(255, 255, 255);
 }
 
+/*unknown code location for the moment*/
+
 .portfolio-title {
   margin-top: 6px;
   margin-bottom: 20px;
   background-color: rgba(250, 250, 250, 0.82);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Times New Roman', Times, serif;
   color: #fff;
   font-size: 36px;
   text-align: center;
 }
+
+/*unknown code location for the moment*/
 
 .portfolio-paragraph {
   padding-right: 60px;
@@ -100,10 +104,11 @@
   padding-bottom: 60px;
 }
 
+/*text title for homepage*/
 .homepage-title {
   margin-top: 20px;
   margin-bottom: 20px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 40px;
   text-align: center;
 }
@@ -111,7 +116,7 @@
 .homepage-paragraph {
   padding-right: 60px;
   padding-left: 60px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 20px;
 }
 
