@@ -39,8 +39,10 @@
   font-weight: 400;
 }
 
+/*navbar glow*/
+
 .navbar-link:hover {
-  color: #0bd7e6;
+  color: #f5d108;
 }
 
 .nav-container {
