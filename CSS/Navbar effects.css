@@ -79,9 +79,9 @@
 .portfolio-title {
   margin-top: 6px;
   margin-bottom: 20px;
+  color: #fff;
   background-color: rgba(0, 0, 0, 0.82);
   font-family: 'Times New Roman', Times, serif;
-  color: #fff;
   font-size: 36px;
   text-align: center;
 }
@@ -92,7 +92,7 @@
   padding-right: 60px;
   padding-left: 60px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: #fff;
+  color: rgb(255, 255, 255);
   font-size: 20px;
   text-align: center;
 }
