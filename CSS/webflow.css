@@ -80,8 +80,6 @@ body {
   padding-right: 20px !important;
   text-align: center !important;
   font-family: 'Times New Roman', Times, serif;
-  position: fixed;
-  transform: translate(-50%, -50%) !important;
 }
 
 .wide-1{
