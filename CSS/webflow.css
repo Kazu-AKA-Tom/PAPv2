@@ -80,6 +80,7 @@ body {
   padding-right: 20px !important;
   text-align: center !important;
   font-family: 'Times New Roman', Times, serif;
+  position: fixed;
 }
 
 .wide-1{
