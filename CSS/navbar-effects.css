@@ -14,7 +14,7 @@
 
 .section-hero-portfolio {
   height: 50vh;
-  background-image: url('../images/Banner_6.JPG');
+  background-image: url('../Images/Banner_6.JPG');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -101,7 +101,7 @@
 
 .section-hero-homepage {
   height: 50vh;
-  background-image: url('../images/Banner_7.JPG');
+  background-image: url('../Images/Banner_7.JPG');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -159,7 +159,7 @@
 
 .pict1-section-header {
   height: 20vh;
-  background-image: url('../images/picture-1.jpg');
+  background-image: url('../Images/picture-1.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -170,14 +170,14 @@
 
 .pict2-section-header {
   height: 20vh;
-  background-image: url('../images/picture-2.jpg');
+  background-image: url('../Images/picture-2.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .pict3-section-header {
   height: 20vh;
-  background-image: url('../images/picture-3.jpg');
+  background-image: url('../Images/picture-3.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -191,35 +191,35 @@
 
 .pict5-section-header {
   height: 20vh;
-  background-image: url('../images/picture-5.jpg');
+  background-image: url('../Images/picture-5.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .pict6-section-header {
   height: 20vh;
-  background-image: url('../images/picture-6.jpg');
+  background-image: url('../Images/picture-6.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .pict7-section-header {
   height: 20vh;
-  background-image: url('../images/picture-7.jpg');
+  background-image: url('../Images/picture-7.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .pict8-section-header {
   height: 20vh;
-  background-image: url('../images/picture-8.jpg');
+  background-image: url('../Images/picture-8.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .pict9-section-header {
   height: 20vh;
-  background-image: url('../images/picture-9.jpg');
+  background-image: url('../Images/picture-9.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
